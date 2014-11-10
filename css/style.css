@@ -1,0 +1,24 @@
+h1 {
+    font-size: 32px;
+    font-family: Helvetica;
+    color: black;
+}
+body {
+    background-color: white;
+}
+.myButton {
+    color: white;
+    background-color: #5769A9;
+    font-size: 16px;
+}
+.myText {
+    font-size: 12px;
+    height: 30px;
+    width: 100%;
+}
+.dropDown {
+    font-size: 24px;  
+    height: 30px;
+    font-family: Helvetica;
+}
+
